@@ -1,12 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+
+import Header from './containers/header';
+import Home from './containers/home';
+import About from './containers/about';
+import Footer from './containers/footer';
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Header />
+    <Home />
+    <About />
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );

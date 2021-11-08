@@ -1,0 +1,36 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    color: grey;
+}
+
+.works h1, .works h3 {
+    width: 35vw;
+}
+
+.works {
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+}
+
+.container-cards {
+    display: flex;
+    flex: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card {
+    text-align: center;
+    margin: 0 100px;
+}
+
+.card h4 {
+    width: 13vw;
+    margin: 20px auto;
+    color: grey;
+}

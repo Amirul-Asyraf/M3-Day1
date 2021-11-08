@@ -1,0 +1,60 @@
+#home-para {
+    line-height: 1rem;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    color: gray;
+}
+
+h1, h3 {
+    width: 20vw;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+
+#container {
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: skyblue;
+}
+
+.container-content {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    word-wrap: break-word;
+    background: #F8F8FA;
+}
+
+.container-content button {
+    width: 10vw;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding: 15px 0;
+    border: none;
+    border-radius: 10px;
+    background: #151515;
+    color: white;
+}
+
+.container-image {
+    width: 45vw;
+}
+
+.container-image img {
+    width: inherit;
+    height: 80vh;
+}
