@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/M3-Day1/static/css/main.05f2ed24.chunk.css",
+    "main.js": "/M3-Day1/static/js/main.6751617a.chunk.js",
+    "main.js.map": "/M3-Day1/static/js/main.6751617a.chunk.js.map",
+    "runtime-main.js": "/M3-Day1/static/js/runtime-main.4c874457.js",
+    "runtime-main.js.map": "/M3-Day1/static/js/runtime-main.4c874457.js.map",
+    "static/js/2.d33de6af.chunk.js": "/M3-Day1/static/js/2.d33de6af.chunk.js",
+    "static/js/2.d33de6af.chunk.js.map": "/M3-Day1/static/js/2.d33de6af.chunk.js.map",
+    "static/js/3.79c3983b.chunk.js": "/M3-Day1/static/js/3.79c3983b.chunk.js",
+    "static/js/3.79c3983b.chunk.js.map": "/M3-Day1/static/js/3.79c3983b.chunk.js.map",
+    "index.html": "/M3-Day1/index.html",
+    "static/css/main.05f2ed24.chunk.css.map": "/M3-Day1/static/css/main.05f2ed24.chunk.css.map",
+    "static/js/2.d33de6af.chunk.js.LICENSE.txt": "/M3-Day1/static/js/2.d33de6af.chunk.js.LICENSE.txt",
+    "static/media/app-preview.9806ec5e.jpg": "/M3-Day1/static/media/app-preview.9806ec5e.jpg",
+    "static/media/image-cards.b360ed80.jpg": "/M3-Day1/static/media/image-cards.b360ed80.jpg",
+    "static/media/logo.6ce24c58.svg": "/M3-Day1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c874457.js",
+    "static/js/2.d33de6af.chunk.js",
+    "static/css/main.05f2ed24.chunk.css",
+    "static/js/main.6751617a.chunk.js"
+  ]
+}
